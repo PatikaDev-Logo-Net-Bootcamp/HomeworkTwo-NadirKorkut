@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HomeworkTwo_NadirKorkut
+build_property.ProjectDir = C:\Users\testinium\OneDrive\Masaüstü\Patika.Dev Logo Yazılım Ödevler\HomeworkTwo-NadirKorkut\HomeworkTwo-NadirKorkut\

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7D5Et1Z4OTc2V8G5/2hIyGgK1Df9iWeYrH5wHfbWoA2ciJks54WFk0vVoDBV1nGjIAJwUYLQbME/aVI8Tsw+ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\testinium\\OneDrive\\Masaüstü\\Patika.Dev Logo Yazılım Ödevler\\HomeworkTwo-NadirKorkut\\HomeworkTwo-NadirKorkut\\HomeworkTwo-NadirKorkut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\testinium\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\testinium\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\testinium\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\testinium\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\testinium\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\testinium\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
